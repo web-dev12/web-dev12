@@ -12,6 +12,15 @@
 
 ---
 
+
+### 📝 My GitHub Stats
+
+[![web-dev github stats](https://github-readme-stats.vercel.app/api?username=web-dev12&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=web-dev12&&theme=gotham)](https://git.io/streak-stats)
+
+---
+
 ## 🤝 Let's Connect
 
   </a>
